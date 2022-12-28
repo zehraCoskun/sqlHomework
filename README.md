@@ -1,9 +1,9 @@
 # sqlHomework1
 https://app.patika.dev/courses/sql/Odev1
 
-1-
+##1-
 select title, description from film;
-2-
+##2-
 select * from film
 where (length>60 and length<75);
 3-
