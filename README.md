@@ -1,7 +1,6 @@
 # sqlHomework1
-https://app.patika.dev/courses/sql/Odev1
 
-1-
+## 1-
 select title, description from film;
 2-
 select * from film
